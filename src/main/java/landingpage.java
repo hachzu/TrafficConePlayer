@@ -4,7 +4,7 @@ import javax.swing.*;
 public class landingpage extends JPanel {
 
     private final Image background = new ImageIcon(
-        "C:/Users/pardi/OneDrive/Projects/TrafficConePlayer/assets/landingpage.png"
+        "src/main/resources/assets/landingpage.png"
     ).getImage();                                                         // Update this path if you move the project.
 
     public landingpage() {
